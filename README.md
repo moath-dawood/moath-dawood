@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Moath Dawood</h1>
-<h3 align="center">A Computer Systems Engineering student and a passionate frontend developer from Qalqilyah, Palestine</h3>
+<h1 align="center">Hi 👋🏻, I'm Moath Dawood</h1>
+<h3 align="center">A Computer Systems Engineering student and a passionate frontend developer from Qalqilyah, Palestine.</h3>
 <hr>
 
 - 👨🏻‍💻 I’m currently learning **React**, in an internship with Gaza Sky Geeks.
@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/moath-dawood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moath-dawood" height="30" width="40" /></a>
 <a href="https://fb.com/moath.dawood613" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moath.dawood613" height="30" width="40" /></a>
+<a href="https://steamcommunity.com/id/paradox_is_here/" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/steam.svg" alt="moath.dawood613" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
