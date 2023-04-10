@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Systems Engineering student and a passionate frontend developer from Qalqilyah, Palestine.</h3>
 <hr>
 
-- 👨🏻‍💻 I’m currently learning **React**, in an internship with Gaza Sky Geeks.
+- 👨🏻‍💻 I’m currently learning **React**, in an internship with **Gaza Sky Geeks**.
 
 - 💁🏻‍♂️ Ask me about **HTML, CSS, JavaScript, C++, Python**.
 
