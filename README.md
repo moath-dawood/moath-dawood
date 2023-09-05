@@ -2,9 +2,9 @@
 <h3 align="center">A Computer Systems Engineering student and a passionate frontend developer from Qalqilyah, Palestine.</h3>
 <hr>
 
-- 👨🏻‍💻 I’m currently learning **React**, in an internship with **Gaza Sky Geeks**.
+- 👨🏻‍💻 I’m currently mastering frontend development.
 
-- 💁🏻‍♂️ Ask me about **HTML, CSS, JavaScript, C++, Python**.
+- 💁🏻‍♂️ Ask me about **HTML, CSS, JavaScript, C++, Python and React**.
 
 - 📫 How to reach me: **moath.j.dawoud@gmail.com**
 
