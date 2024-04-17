@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Moath Dawood</h1>
-<h3 align="center">A Computer Systems Engineering student and a passionate frontend developer from Qalqilyah, Palestine.</h3>
+<h3 align="center">A Computer Systems Engineer and a passionate frontend developer from Qalqilyah, Palestine.</h3>
 <hr>
 
 - 👨🏻‍💻 I’m currently mastering frontend development.
